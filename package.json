@@ -2,7 +2,7 @@
   "name": "airbnb-client-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ssaunier.github.io/airbnb-clone",
+  "homepage": "https://github.com/NicoBocq/airbnb-clone",
   "dependencies": {
     "gh-pages": "^1.0.0",
     "google-map-react": "^0.24.0",
